@@ -5,4 +5,4 @@ set -e
 docker pull amoldattu/demo-python-app
 
 # Run the Docker image as a container
-docker run -d -p 5000:5000 amoldattu/demo-python-app
+docker run -d -p 8000:8000 amoldattu/demo-python-app
